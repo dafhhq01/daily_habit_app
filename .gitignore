@@ -1,0 +1,68 @@
+# ========================
+# Flutter & Dart
+# ========================
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+/build/
+coverage/
+
+# ========================
+# Logs & temp files
+# ========================
+*.log
+*.class
+*.pyc
+*.swp
+.DS_Store
+
+# ========================
+# IDEs
+# ========================
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# ========================
+# Android
+# ========================
+android/local.properties
+android/key.properties
+*.jks
+*.keystore
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# ========================
+# iOS / macOS
+# ========================
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/App.framework
+ios/Flutter/.last_build_id
+
+# ========================
+# Web
+# ========================
+web/build/
+
+# ========================
+# Symbolication / obfuscation
+# ========================
+app.*.symbols
+app.*.map.json
+
+# ========================
+# Misc
+# ========================
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
